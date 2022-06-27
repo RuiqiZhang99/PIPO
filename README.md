@@ -3,6 +3,7 @@ Code will be available soon.
 
 ## Demonstration
 The PIPO is developed with [Multi-agent Partical Environments(MPEs)](https://github.com/openai/multiagent-particle-envs)
+
 <img src="demos/8.gif" width="200"> <img src="demos/16.gif" width="200"> <img src="demos/128.gif" width="200"> 
 
 ## Dependencies
